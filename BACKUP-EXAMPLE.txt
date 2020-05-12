@@ -1,0 +1,12 @@
+robocopy "H:\DVSMEDIA\2018 Offense Folder" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2018 Offense Folder" /E /B /MIR /IPG:1 /R:2 /w:0 
+robocopy "H:\DVSMEDIA\2017 Fall Playbook" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 Fall Playbook" /E /B /MIR /IPG:1 /R:2 /w:0 
+robocopy "H:\DVSMEDIA\2017 Offense Meetings" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 Offense Meetings" /E /B /MIR /IPG:1 /R:2 /w:0 
+robocopy "H:\DVSMEDIA\2017 Offseason Scripts" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 Offseason Scripts" /E /B /MIR /IPG:1 /R:2 /w:0 
+robocopy "H:\DVSMEDIA\2017 OL Meetings" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 OL Meetings" /E /B /MIR /IPG:1 /R:2 /w:0
+robocopy "H:\DVSMEDIA\2017 OPPONENT SCOUTING REPORTS" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 OPPONENT SCOUTING REPORTS" /E /B /MIR /IPG:1 /R:2 /w:0
+robocopy "H:\DVSMEDIA\2017 Skill Meetings" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 Skill Meetings" /E /B /MIR /IPG:1 /R:2 /w:0
+robocopy "H:\DVSMEDIA\2017 Spring Playbook" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 Spring Playbook" /E /B /MIR /IPG:1 /R:2 /w:0
+robocopy "H:\DVSMEDIA\2017 Summer Drawings" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\2017 Summer Drawings" /E /B /MIR /IPG:1 /R:2 /w:0
+robocopy "K:\PRESENTATIONS\Leake" "C:\Users\DLEAKE\Google Drive\Coach Leake\Eastern Kentucky\Leake\Scheme\Offense\From H\PPT" /E /B /MIR /IPG:1 /R:2 /w:0
+robocopy "C:\Users\DLEAKE\Google Drive" D:\Leake /E /B /MIR /IPG:1 /R:2 /w:0 
+Exit
